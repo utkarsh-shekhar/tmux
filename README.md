@@ -1,5 +1,9 @@
 # Tmux config
 ## Prerequisites:
+- Install [tpm](https://github.com/tmux-plugins/tpm) as package manager
+```sh
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
 - Install [fzf](https://github.com/junegunn/fzf/) to be used for [tmux-fzf](https://github.com/sainnhe/tmux-fzf)
 - For [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator), also need to set up vim-tmux-navigator for neovim
 
